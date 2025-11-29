@@ -1,12 +1,18 @@
 # getting-started-with-threejs
 
-## Step 1
+## Change Directory
+
+```sh
+cd ThreeJS_Projects
+```
+
+## Install live-server
 
 ```sh
 npm install -g live-server
 ```
 
-## Step 2
+## Start server
 
 ```sh
 live-server
